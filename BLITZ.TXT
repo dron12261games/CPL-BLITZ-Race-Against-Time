@@ -1,0 +1,204 @@
+===========================================================================
+Advanced engine needed  : MBF21 + MUSINFO + UMAPINFO + DEHEXTRA
+Primary purpose         : Single play
+===========================================================================
+Title                   : Blitz: Race Against Time
+Filename                : BLITZ.WAD
+Release date            : 27 Apr 2025
+Author                  : Leaded by Ear1h and DRON12261
+                          Deatailed credits below
+Email Address           : doomguyv666228@gmail.com
+Other Files By Author   : Russian Random Speedmap Pack Series, Gift For
+                          DRON12261, Who is Who, etc
+
+Description             : Blitz: Race Against Time - Community project for
+                          Doom 2 powered by MBF21 compatible source ports
+                          with modified Minicharge mod by Tango
+
+                          The goal of this project is to make ultrafast maps
+                          using Special Action 10 - Close Door After 30
+                          Seconds. If the door closes, the player will have
+                          to go through the level from the start of the
+                          level.
+
+                          The mappers provided a lot of combat puzzles,
+                          gimmick mechanics and just beautiful short maps.
+
+                          This project is based on the "Volcanic Eruption" 
+                          resourcepack by Ear1h, which in itself is a fork of 
+                          "Minicharge" by Tango.
+
+                          This project is not compatible with mods in any way!
+
+Additional Credits to   : Project leader: Ear1h
+
+                          Lead Assistance: DRON12261
+
+                          Mappers: Ear1h, DRON12261, Carton Kobra, Doom Wads,
+                          Track Federal, Broy, RastaManGames, Man With A Gun,
+                          Fishgoggles, Winnkar, CblBOPOTKA, Shiroi Akuma,
+                          Astar, SilverMiner, DukeNukem4ever, VolterVoltage,
+                          DeathWish
+
+                          Assembling: Ear1h, DRON12261
+						  
+                          Testing: Carton Kobra, Doom Wads, Track Federal, 
+                          Shiroi Akuma, Broy, CblBOPOTKA, DRON12261
+
+                          Statusbar: from "Doom Classic Redux" by WorldMachine
+
+                          Additional graphics: 
+                          Carton Kobra for TITLEPIC, ENDOOM, M_DOOM, INTERPIC
+
+                          TexturePack: UltimateDTex by DRON12261. Detailed 
+                          texturepack credits inside the wad file (ULTDTX lump).
+
+                          Sky on MAP03: Craneo, Hideaki Anno, Studio Gainax
+
+                          "Volcanic Eruption" resourcepack: Ear1h
+                          Original "Minicharge" resourcepack: Tango
+                          Detailed resourcepack credits inside the wad file 
+                          (VLCERPCR lump).
+
+                          Trailer: DRON12261
+
+                          Thanks for sharing the trailer:
+                          Doom Wads, Endoomer
+
+                          Thanks for moral support (Where the Blitz, gandonio): 
+                          Track Federal, Carton Kobra, Doom Wads, DRON12261, 
+                          Broy, Shiroi Akuma, Man With A Gun
+
+                          Deatailed credits per map at the end of this file
+===========================================================================
+* What is included *
+
+New levels              : 32
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : Yes
+Other                   : None
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01 - MAP32
+Single Player           : Yes
+Cooperative 2-4 Player  : No
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 13 Feb 2025 - 27 Apr 2025
+Editor(s) used          : Ultimate Doom Builder, SLADE 3, Photoshop, Aseprite
+Known Bugs              : Doom Retro is crashed after launching.
+                          
+May Not Run With        : Doom Retro, GZDoom early version, ZDoom, LZDoom,
+                          QZDoom, Crispy Doom and other limit-removing ports,
+                          Chocolate Doom and Doom2.exe
+Tested With             : GZDoom 4.12.2, Cherry Doom 2.0, DSDA-Doom 0.28.3,
+                          Woof 14.5, Nugget Doom 4.0.
+
+
+* Map Details *
+
+MAP01: Welcome to Blitz Arena by Ear1h(map) & Dron12261(mbf21 protector creator)
+MAP02: Ghost in Shells by Carton Kobra
+MAP03: EVANGILIONIOLI by Carton Kobra
+MAP04: Quick! To the toilet! by RastaManGames
+MAP05: Casali's pub by Shiroi Akuma (aka Slavius[B0S])
+MAP06: Gone in 30 Seconds by Track Federal
+MAP07: I just can't stop thinking about balls by Fishgoggles
+MAP08: Boat Goes Binted by RastaManGames
+MAP09: Platzen Karten by RastaManGames
+MAP10: Kingpin Street by RastaManGames
+MAP11: YOURE CAR by SilverMiner
+MAP12: Nar Shaddaa by Deathwish
+MAP13: Grunting hounds by Shiroi Akuma (aka Slavius[B0S])
+MAP14: Portal Control by DukeNukem4ever
+MAP15: Romero get into the icon of sin by Volter Voltage (a.k.a Domka Hoturg)
+MAP16: Thirty Seconds To Earth by Doom Wads
+MAP17: Yet another UAC-Like base by Ear1h
+MAP18: A Star Goats: Kill all of them by Broy
+MAP19: Blood factory  by Doom Wads
+MAP20: System Overdrive by Track Federal
+MAP21: 'o' will be destroyed by Ear1h
+MAP22: Wake Up by Astar (a.k.a. Ni Ko)
+MAP23: SpinOnIt by Carton Kobra
+MAP24: Shortest Day in Hell by Shiroi Akuma (aka Slavius[B0S])
+MAP25: Citadel Farewell by CblBOPOTKA
+MAP26: NEFERTITIES by Carton Kobra
+MAP27: Blessed By The Wicked by MAN_WITH_GUN
+MAP28: Fly, you fools! by Carton Kobra
+MAP29: Last Battle For Ear1h by DRON12261
+MAP30: Absolute Winner by Ear1h
+MAP31: You have to buy pevko in Winnkar City by Winnkar
+MAP32: Rune Trial by Ear1h
+
+
+* Music Details * 
+
+MAP01: "Panic! At The Drive-Thru" by Dial-Up for Murder
+MAP02: "Canabalt - RUN!" (Commodore 64 - cover)
+MAP03: "Ixer - When the amen is breaking"
+MAP04: "No Mercy" by Beasuce" (from "Maximum Actioin" video-game)
+MAP05: Bayonetta OST - Gates of Hell, Creepy Nuts - Bling-Bang-Bang-Born
+MAP06: Driver OST - New York at Night (MIDI cover by Auto Ext)
+MAP07:  AirRice -- Balatro Main Theme (Midi Cover)
+MAP08: "M i n d l e s s" by Arachnophobia
+MAP09: "Machu Picchu" by Chuck Doud" (from "Jet Moto 3" video-game)
+MAP10: "Intro" by Sean Charles & Graig Robertson" (from "Blood Lines" videogame)
+MAP11: Schi - Sector Gaza
+MAP12: STALK-13 from Star Wars: Dark Forces 
+MAP13: Sonic and Knuckles OST - Flying Battery Act 1
+MAP14: "I Sawed the Demons" (from Doom's E2M1)
+MAP15: "Shiro Sagisu - Magmadiver" (from Evangelion)
+MAP16: Jeremy Doyle - Ripsnort 
+MAP17: Escaping the Doomed Fortress  from TNT Midi Pack
+MAP18: Starcraft 1 Terran 1, midi
+MAP19:  James Paddock - Control
+MAP20: Violence In Your Mind by Sid Zetmeck (from Doom 2: 3 Heures d'Agonie 2)
+MAP21: "Task Force" by Lee Jackson, from Rise of the Triad
+MAP22: Loophole by Astar18 (Ni Ko)
+MAP23: Prehistorik 2 - Monster
+MAP24:  Team Fortress 2 OST - The Art of War
+MAP25: "Metallurgy" by James Paddock
+MAP26: "CRYPTR" From Hexen
+MAP27: Lippeth - Let the Wicked Be No More (Ultimate MIDI Pack)
+MAP28:  Heretic Soundtrack - Recreated and Recomposed - The docks - by Aethun
+MAP29: Mare Cruor from Fate/Extella Link
+MAP30: "Soulsweeper" - by TrialD and Cammy from TNT Midi Pack
+MAP31: drummaaa machinus by Winnkar special edition for BLITZ by Ear1h 
+community project by WINNKAR
+MAP32: Eternal Damnation by Knightrider of Doom from Alien Vendetta Midi Pack
+TITLEPIC: "Versus Screen" (Gundam Wing: Endless Duel)
+INTERTEXT: D_READ_M Doom 4 Vanilla 
+INTERMISSION: Beating the Demons  by TheUltimateDoomer666
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
+
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/dron12261games
